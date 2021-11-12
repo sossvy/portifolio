@@ -51,7 +51,7 @@ texto = "&#10084 O Biopark é um lugar bem distante de Toledo.<br>  É um lugar 
 " diferentes e quando uma empresa atinge o valor de R$1.000.000.000 no mercado, o ovo dessa empresa no Biopark <br>choca e dele sai um lindo unicórnio";
 anires();
 mudatexto(texto);
-imagem = "./imagens/biopark.jpg";
+imagem = "./imagens/Biopark.jpg";
 mudaimg(imagem);
 }
 
